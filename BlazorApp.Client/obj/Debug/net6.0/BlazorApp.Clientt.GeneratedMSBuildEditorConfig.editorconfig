@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorApp.Clientt
+build_property.RootNamespace = BlazorApp.Clientt
+build_property.ProjectDir = C:\Projects\Personal\BlazorTestApp\Epsilon.net\BlazorApp.Clientt\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Projects\Personal\BlazorTestApp\Epsilon.net\BlazorApp.Clientt
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Pages/BingMap.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZ01hcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Pages/Customer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Pages/Customers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cay15i84pv
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cnh06ctdg5
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-2vzva7smqs
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Personal/BlazorTestApp/Epsilon.net/BlazorApp.Clientt/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

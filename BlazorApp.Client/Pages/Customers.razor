@@ -1,0 +1,70 @@
+﻿@page "/customers"
+@inherits CustomersBase
+
+<PageTitle>Customers</PageTitle>
+
+<h3>Customers</h3>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Region</th>
+            <th>Postal Code</th>
+            <th>Country</th>
+            <th>Phone</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        @if (CustomersService.PagedCustomers != null)
+        {
+            @foreach (var customer in CustomersService.PagedCustomers)
+            {
+                <tr>
+                    <td>@customer.CompanyName </td>
+                    <td>@customer.ContactName</td>
+                    <td>@customer.Address </td>
+                    <td>@customer.City </td>
+                    <td>@customer.Region </td>
+                    <td>@customer.PostalCode </td>
+                    <td>@customer.Country </td>
+                    <td>@customer.Phone </td>
+                    <td>
+                        <button class="btn btn-primary" @onclick="(() => ShowCustomer(customer.Id))"><i class="oi oi-people"></i></button>
+                    </td>
+                </tr>
+            }
+        }
+        </tbody>
+    </table>
+
+@if (CustomersService.TotalCustomers > 0)
+{
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            @for (int i = 1; i <= TotalPages ; i++)
+            {
+                var a = i;
+                <li class="page-item @(currentPage == i ? "active" : "")">
+                    <a class="page-link" @onclick="(() => LoadPage(a))">@i</a>
+                </li>
+            }
+        </ul>
+    </nav>
+
+
+    <div class="paging-labels">
+        <span>Page @currentPage of @TotalPages</span>
+    </div>
+
+    <div class="paging-buttons">
+        <button class="btn btn-primary" @onclick="(() => LoadPage(currentPage - 1))" disabled="@IsFirstPage">Previous</button>
+        <button class="btn btn-primary" @onclick="(() => LoadPage(currentPage + 1))" disabled="@IsLastPage">Next</button>
+    </div>
+    <br/>
+    <button class="btn btn-primary" @onclick="CreateNewCustomer">Create New Customer</button>
+}

@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorApp.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp.Client.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Projects\\Personal\\Epsilon.net\\BlazorCrud\\BlazorApp.Client\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlazorApp.Client.props",
+      "PackagePath": "build\\BlazorApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp.Client.props",
+      "PackagePath": "buildTransitive\\BlazorApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

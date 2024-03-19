@@ -1,0 +1,17 @@
+﻿@page "/bingmap"
+
+<h3>Bing Autosuggest Map API</h3>
+
+<input class="form-control" @bind="SearchQuery" placeholder="Enter your query" />
+<br/>
+<button class="btn btn-primary" @onclick="Search">Search</button>
+<br/>
+@if (SearchResults != null && SearchResults.Any())
+{
+    <ul class="list-group">
+        @foreach (var result in SearchResults)
+        {
+            <li class ="list-group-item">@result</li>
+        }
+    </ul>
+}
